@@ -3,8 +3,22 @@ html {
   margin: 0;
   box-sizing: border-box;
 }
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5em;
+}
+h3 {
+  font-size: 1.17em;
+}
 body {
   background: black;
+}
+.heading {
+  font-family: 'Montserrat', sans-serif;
+  transition: transform .2s;
+  background-color: cornsilk;
 }
 .display {
   text-align: center;
@@ -21,11 +35,6 @@ body {
 }
 .icon :hover {
   transform: scale(1.1) !important;
-}
-.heading {
-  font-family: 'Montserrat', sans-serif;
-  transition: transform .2s;
-  background-color: cornsilk;
 }
 .chatbox {
   position: fixed;
@@ -85,13 +94,13 @@ body {
 }
 
 .name {
-  font-size: 1.8rem;
+  font-size: 1.8rem !important;
 }
 .greet {
-  font-size: 1.5rem;
+  font-size: 1.5rem !important;
 }
 .greeting {
-  font-size: 1rem;
+  font-size: 1rem !important;
 }
 .round {
   position: absolute;
