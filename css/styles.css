@@ -66,7 +66,7 @@ body {
 }
 .upper-text {
   padding-left: 64px;
-  padding-bottom: 43.2;
+  padding-bottom: 43.2px;
   animation: myAnim 2s ease-out 0s 1 normal forwards;
 }
 @keyframes myAnim { 
@@ -80,7 +80,7 @@ body {
 }
 .card-main {
   position: absolute;
-  height: 69vh;
+  height: 60vh;
   width: 32.7vw;
   margin-left: 17.6px;
   margin-top: 0%;
