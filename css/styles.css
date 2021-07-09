@@ -100,18 +100,18 @@ body {
 }
 
 .name {
-  font-size: 28.8px;
+  font-size: 25px;
 }
 .greet {
-  font-size: 24px;
+  font-size: 20px;
 }
 .greeting {
-  font-size: 16px;
+  font-size: 14px;
 }
 .round {
   position: absolute;
   z-index: 1;
-  top: 160px;
+  top: 130px;
   left: 48px;
   height: 80px;
   width: 80px;
@@ -153,9 +153,9 @@ body {
   color: black;
   font-size: 17.6px;
   font-weight: bold;
-  padding: 32px;
+  padding: 28px;
   padding-bottom: 0;
-  padding-top: 48px;
+  padding-top: 68px;
   animation: myAnim 3s cubic-bezier(0.87, 0, 0.13, 1) 0s 1 normal forwards;
 }
 @keyframes myAnim { 
@@ -228,9 +228,9 @@ body {
   }
 }
 .ques {
-  margin: 8px;
+  margin: 4px;
   border-radius: 8px;
-  padding: 16px;
+  padding: 10px;
 }
 .question {
   position: relative;
@@ -247,15 +247,16 @@ body {
   box-shadow: 0px 1px 3px #666666;
   color: #241717;
   background: #ffffff;
-  padding: 16px;
+  padding: 9px;
   display: flex;
   margin:auto;
-  font-size: 19.2px;
+  margin-top: 10px;
+  font-size: 14px;
 }
 .fa-comment-alt {
     z-index: 1;
-    padding-top: 5px;
-    padding-right: 4px;
+    padding-top: 2px;
+    padding-right: 1px;
 }
 .btn:hover {
   background: #b6b9ba;
