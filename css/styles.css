@@ -80,7 +80,7 @@ body {
 }
 .card-main {
   position: absolute;
-  height: 57vh;
+  height: 54vh;
   width: 32.7vw;
   margin-left: 17.6px;
   margin-top: 0%;
@@ -115,7 +115,7 @@ body {
   position: absolute;
   font-size: 44px;
   top: 10px;
-  left: 8px;
+  left: 7px;
   animation: myAnim 1s ease-in-out 1s 1 normal forwards;
 }
 @keyframes myAnim { 
