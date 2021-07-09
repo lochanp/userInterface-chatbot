@@ -18,6 +18,7 @@ body {
 .heading {
   font-family: 'Montserrat', sans-serif;
   transition: transform .2s;
+  font-size: 2rem;
   background-color: cornsilk;
 }
 .display {
@@ -95,9 +96,11 @@ body {
 
 .name {
   font-size: 1.8rem !important;
+  font-weight: 600;
 }
 .greet {
   font-size: 1.5rem !important;
+  font-weight: 500;
 }
 .greeting {
   font-size: 1rem !important;
