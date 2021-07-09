@@ -80,7 +80,7 @@ body {
 }
 .card-main {
   position: absolute;
-  height: 40vh;
+  height: 63vh;
   width: 32.7vw;
   margin-left: 17.6px;
   margin-top: 0%;
@@ -102,7 +102,7 @@ body {
 .round {
   position: absolute;
   z-index: 1;
-  top: 100px;
+  top: 120px;
   left: 48px;
   height: 70px;
   width: 70px;
@@ -114,8 +114,8 @@ body {
 .fa-robot {
   position: absolute;
   font-size: 44px;
-  top: 14px;
-  left: 10px;
+  top: 10px;
+  left: 8px;
   animation: myAnim 1s ease-in-out 1s 1 normal forwards;
 }
 @keyframes myAnim { 
