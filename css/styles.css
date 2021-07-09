@@ -146,7 +146,7 @@ body {
   font-weight: bold;
   padding: 28px;
   padding-bottom: 0;
-  padding-top: 68px;
+  padding-top: 54px;
   animation: myAnim 3s cubic-bezier(0.87, 0, 0.13, 1) 0s 1 normal forwards;
 }
 @keyframes myAnim { 
